@@ -5,10 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Eduardo Marcos",
-        },
-        {
-            "name": "Himaf",
+            "name": "Himaf"
         }
     ],
     "autoload": {
